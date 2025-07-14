@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # q-menu.sh - A menu-driven bash script for AWS Q in Connect
 # --- Configuration and State Variables ---
 AWS_REGION="us-east-1"
